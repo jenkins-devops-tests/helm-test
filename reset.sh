@@ -4,4 +4,5 @@ helm repo index .
 git add .
 git commit -m "initial"
 git push
-
+git status
+ls
